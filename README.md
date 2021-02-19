@@ -1,3 +1,3 @@
-# spotify-data-interface
+# spotify-vinyl-sim
 
-Testing/learning repo for python api access and front-end development
+Experimental pre-alpha vinyl simulator for Spotify, built with Python (considering migration to Flutter/Dart) and Firebase.
